@@ -411,7 +411,7 @@ This is the goal state. When you have multiple offers, ask yourself (most to lea
 
 ## Ecclesiastes & The Mortality Framework
 
-The daily question — *"If today was the last day of my life, would I want to do what I'm about to do today?"* — isn't just motivational language. It maps directly onto some of the oldest and clearest thinking about urgency, meaning, and action.
+The daily question — *"If today was the last day of my life, would I want to do what I'm about to do today?"* — isn't just motivational language. It maps directly onto some of the oldest and clearest thinking about urgency, meaning, and action.  [Quote by Steve Jobs](https://youtu.be/D1R-jKKp3NA?si=6zft6vaWfxXt7OLw) 
 
 | Concept | Steve Jobs Quote | Ecclesiastes Philosophy |
 |---|---|---|
